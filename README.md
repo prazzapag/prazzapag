@@ -1,8 +1,3 @@
-<!--
-  GitHub Profile README for @prazzapag
-  Drop this into a repo named exactly "prazzapag" (i.e. github.com/prazzapag/prazzapag)
-  and it will render automatically at the top of your profile.
--->
 
 <div align="center">
 
